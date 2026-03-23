@@ -1,0 +1,21 @@
+# Python bytecode (compiled files)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# VS Code settings and workspace data
+.vscode/
+.history/
+
+# OS-generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# User-specific local images or temp icons (if you don't want them on Git)
+*.log
